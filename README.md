@@ -1,48 +1,56 @@
-# DataStructureLibrary
+<h1 align="center">📚 DataStructureLibrary</h1>
 
-DataStructureLibrary is a comprehensive C++ library that provides implementations of commonly used data structures and algorithms, along with an interactive console-based application to demonstrate their functionality. It is designed for students, developers, and professionals to learn, practice, and use standard data structures in C++.
-## 📦 Features
+<p align="center">
+  A comprehensive <b>C++ library</b> with implementations of classic <b>data structures</b> and <b>algorithms</b>, bundled with an interactive console application for hands-on learning.  
+</p>
 
-The library includes implementations of the following data structures and algorithms:
+---
 
-- **Stack**:  
+## ✨ Features  
+
+This library includes ready-to-use implementations for:  
+
+- **Stack**  
   Operations: Push, Pop, Display, Count  
 
-- **Queue**:  
+- **Queue**  
   Operations: Enqueue, Dequeue, Display, Count  
 
-- **Singly Circular Linked List (SinglyCLL)**:  
+- **Singly Circular Linked List (SinglyCLL)**  
   Operations: InsertFirst, InsertLast, InsertAtPos, DeleteFirst, DeleteLast, DeleteAtPos, Display, Count  
 
-- **Doubly Circular Linked List (DoublyCLL)**:  
+- **Doubly Circular Linked List (DoublyCLL)**  
   Operations: InsertFirst, InsertLast, InsertAtPos, DeleteFirst, DeleteLast, DeleteAtPos, Display, Count  
 
-- **Generic Singly Linked List (SinglyLGen)**:  
+- **Generic Singly Linked List (SinglyLGen)**  
   Template-based implementation for any data type  
   Operations: InsertFirst, InsertLast, InsertAtPos, DeleteFirst, DeleteLast, DeleteAtPos, Display, Count  
 
-- **Generic Doubly Linked List (DoublyLGen)**:  
+- **Generic Doubly Linked List (DoublyLGen)**  
   Template-based implementation for any data type  
   Operations: InsertFirst, InsertLast, InsertAtPos, DeleteFirst, DeleteLast, DeleteAtPos, Display, Count  
 
-- **Binary Search Tree (BST)**:  
+- **Binary Search Tree (BST)**  
   Operations: Insert, Delete, Search, Inorder, Preorder, Postorder  
 
-- **Sorting Algorithms**:  
+- **Sorting Algorithms**  
   BubbleSort, SelectionSort  
 
-- **Searching Algorithms**:  
+- **Searching Algorithms**  
   LinearSearch, BinarySearch  
 
 ---
-## 📦 Library Design
 
-- Generic templates are used for linked lists and algorithms to allow working with any data type.  
-- Object-oriented design is applied for stacks, queues, linked lists, and BST.  
-- Interactive console menus allow easy testing of data structures and algorithms.  
-- Array-based sorting and searching modules are included for practice and demonstration.  
+## 🏗️ Library Design  
+
+- ✅ **Generic Templates** → Reusable with multiple data types  
+- ✅ **Object-Oriented Design** → Clean class-based structure for Stack, Queue, Linked Lists, and BST  
+- ✅ **Interactive Menus** → Console-based navigation for each data structure  
+- ✅ **Practice Modules** → Sorting and Searching included for quick hands-on use  
 
 ---
+
+## 🎮 Interactive Console Demo  
 
 ```bash
 === MAIN MENU ===
