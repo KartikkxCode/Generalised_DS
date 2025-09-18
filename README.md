@@ -1,56 +1,61 @@
 <h1 align="center">📚 DataStructureLibrary</h1>
 
 <p align="center">
-  A comprehensive <b>C++ library</b> with implementations of classic <b>data structures</b> and <b>algorithms</b>, bundled with an interactive console application for hands-on learning.  
+  <b>A modern C++ library of Data Structures & Algorithms with an interactive console app</b>  
 </p>
+
+<p align="center">
+  <a href="https://github.com/your-username/DataStructureLibrary/stargazers">
+    <img src="https://img.shields.io/github/stars/your-username/DataStructureLibrary?style=for-the-badge" alt="Stars"/>
+  </a>
+  <a href="https://github.com/your-username/DataStructureLibrary/network/members">
+    <img src="https://img.shields.io/github/forks/your-username/DataStructureLibrary?style=for-the-badge" alt="Forks"/>
+  </a>
+  <img src="https://img.shields.io/badge/C++-11%2B-blue?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+</p>
+
+---
+
+## 📌 Quick Links  
+
+- [✨ Features](#-features)  
+- [🏗️ Design](#️-library-design)  
+- [🎮 Demo](#-console-demo)  
+- [⚡ Getting Started](#-getting-started)  
+- [📂 Project Structure](#-project-structure)  
+- [🤝 Contributing](#-contributing)  
+- [📜 License](#-license)  
 
 ---
 
 ## ✨ Features  
 
-This library includes ready-to-use implementations for:  
+✅ **Core Data Structures**  
+- Stack → Push, Pop, Display, Count  
+- Queue → Enqueue, Dequeue, Display, Count  
+- Singly & Doubly Circular Linked Lists → Insert, Delete, Display, Count  
+- Generic Linked Lists (Template-based for any type)  
 
-- **Stack**  
-  Operations: Push, Pop, Display, Count  
+🌳 **Trees**  
+- Binary Search Tree (BST) → Insert, Delete, Search, Inorder, Preorder, Postorder  
 
-- **Queue**  
-  Operations: Enqueue, Dequeue, Display, Count  
-
-- **Singly Circular Linked List (SinglyCLL)**  
-  Operations: InsertFirst, InsertLast, InsertAtPos, DeleteFirst, DeleteLast, DeleteAtPos, Display, Count  
-
-- **Doubly Circular Linked List (DoublyCLL)**  
-  Operations: InsertFirst, InsertLast, InsertAtPos, DeleteFirst, DeleteLast, DeleteAtPos, Display, Count  
-
-- **Generic Singly Linked List (SinglyLGen)**  
-  Template-based implementation for any data type  
-  Operations: InsertFirst, InsertLast, InsertAtPos, DeleteFirst, DeleteLast, DeleteAtPos, Display, Count  
-
-- **Generic Doubly Linked List (DoublyLGen)**  
-  Template-based implementation for any data type  
-  Operations: InsertFirst, InsertLast, InsertAtPos, DeleteFirst, DeleteLast, DeleteAtPos, Display, Count  
-
-- **Binary Search Tree (BST)**  
-  Operations: Insert, Delete, Search, Inorder, Preorder, Postorder  
-
-- **Sorting Algorithms**  
-  BubbleSort, SelectionSort  
-
-- **Searching Algorithms**  
-  LinearSearch, BinarySearch  
+⚙️ **Algorithms**  
+- Sorting → Bubble Sort, Selection Sort  
+- Searching → Linear Search, Binary Search  
 
 ---
 
 ## 🏗️ Library Design  
 
-- ✅ **Generic Templates** → Reusable with multiple data types  
-- ✅ **Object-Oriented Design** → Clean class-based structure for Stack, Queue, Linked Lists, and BST  
-- ✅ **Interactive Menus** → Console-based navigation for each data structure  
-- ✅ **Practice Modules** → Sorting and Searching included for quick hands-on use  
+- 🔧 **Template-based Design** → Use with any data type  
+- 🧱 **OOP Principles** → Clean, modular classes  
+- 🎛️ **Interactive Menus** → Console-driven for each DS/Algo  
+- 📚 **Educational Focus** → Designed for learning & practice  
 
 ---
 
-## 🎮 Interactive Console Demo  
+## 🎮 Console Demo  
 
 ```bash
 === MAIN MENU ===
