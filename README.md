@@ -17,18 +17,6 @@
 
 ---
 
-## 📌 Quick Links  
-
-- [✨ Features](#-features)  
-- [🏗️ Design](#️-library-design)  
-- [🎮 Demo](#-console-demo)  
-- [⚡ Getting Started](#-getting-started)  
-- [📂 Project Structure](#-project-structure)  
-- [🤝 Contributing](#-contributing)  
-- [📜 License](#-license)  
-
----
-
 ## ✨ Features  
 
 ✅ **Core Data Structures**  
