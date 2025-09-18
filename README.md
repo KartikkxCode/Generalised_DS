@@ -67,3 +67,18 @@ Choice: 1
 0. Back
 Choice: 1
 Enter value: 10
+
+---
+
+# Clone repository
+git clone https://github.com/your-username/DataStructureLibrary.git
+cd DataStructureLibrary
+
+# Compile
+g++ main.cpp -o DataStructureLibrary
+
+# Run
+./DataStructureLibrary
+
+
+
