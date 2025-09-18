@@ -71,14 +71,12 @@ Enter value: 10
 ---
 
 # Clone repository
-git clone https://github.com/your-username/DataStructureLibrary.git
+git clone https://github.com/KartikkxCode/Generalised_DS.git
 cd DataStructureLibrary
 
 # Compile
-g++ main.cpp -o DataStructureLibrary
-
+g++ main.cpp -o Generalised_DS
 # Run
-./DataStructureLibrary
-
+./Generalised_DS
 
 
